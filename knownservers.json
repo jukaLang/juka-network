@@ -1,0 +1,9 @@
+{
+	"servers": [{
+		"name": "Local Server",
+		"ip": "127.0.0.1",
+		"port": "400",
+		"expiration": "2023-16-05 21:26:50",
+		"comment": "Juka Server that is ran locally"
+	}]
+}
